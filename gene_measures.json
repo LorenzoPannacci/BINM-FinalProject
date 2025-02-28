@@ -1,0 +1,506 @@
+{
+    "MKKS": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.13813229571984437,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "BBS12": {
+        "Degree": 2,
+        "Betwenness": 0.028169014084507043,
+        "Eigen": 0.028169014084507043,
+        "Closeness": 0.15990990990990991,
+        "Ratio Betwenness/Degree": 0.014084507042253521
+    },
+    "FBLN5": {
+        "Degree": 2,
+        "Betwenness": 0.23889336016096582,
+        "Eigen": 0.23889336016096582,
+        "Closeness": 0.24398625429553264,
+        "Ratio Betwenness/Degree": 0.11944668008048291
+    },
+    "ZNF408": {
+        "Degree": 4,
+        "Betwenness": 0.35961770623742456,
+        "Eigen": 0.35961770623742456,
+        "Closeness": 0.24912280701754386,
+        "Ratio Betwenness/Degree": 0.08990442655935614
+    },
+    "TTLL5": {
+        "Degree": 2,
+        "Betwenness": 0.23647887323943664,
+        "Eigen": 0.23647887323943664,
+        "Closeness": 0.23905723905723905,
+        "Ratio Betwenness/Degree": 0.11823943661971832
+    },
+    "OFD1": {
+        "Degree": 11,
+        "Betwenness": 0.37581488933601603,
+        "Eigen": 0.37581488933601603,
+        "Closeness": 0.23666666666666666,
+        "Ratio Betwenness/Degree": 0.03416498993963782
+    },
+    "PRPF4": {
+        "Degree": 7,
+        "Betwenness": 0.042669349429912816,
+        "Eigen": 0.042669349429912816,
+        "Closeness": 0.21385542168674698,
+        "Ratio Betwenness/Degree": 0.006095621347130402
+    },
+    "GPHN": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.17661691542288557,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "PRPF6": {
+        "Degree": 7,
+        "Betwenness": 0.09332662642521795,
+        "Eigen": 0.09332662642521795,
+        "Closeness": 0.2305194805194805,
+        "Ratio Betwenness/Degree": 0.013332375203602564
+    },
+    "PRPF3": {
+        "Degree": 7,
+        "Betwenness": 0.04266934942991281,
+        "Eigen": 0.04266934942991281,
+        "Closeness": 0.21385542168674698,
+        "Ratio Betwenness/Degree": 0.0060956213471304015
+    },
+    "PRPF8": {
+        "Degree": 9,
+        "Betwenness": 0.21461435278336694,
+        "Eigen": 0.21461435278336694,
+        "Closeness": 0.23509933774834438,
+        "Ratio Betwenness/Degree": 0.023846039198151883
+    },
+    "PRPF31": {
+        "Degree": 7,
+        "Betwenness": 0.2494902749832328,
+        "Eigen": 0.2494902749832328,
+        "Closeness": 0.23986486486486486,
+        "Ratio Betwenness/Degree": 0.03564146785474755
+    },
+    "CEP250": {
+        "Degree": 5,
+        "Betwenness": 0.0703219315895372,
+        "Eigen": 0.0703219315895372,
+        "Closeness": 0.21005917159763313,
+        "Ratio Betwenness/Degree": 0.01406438631790744
+    },
+    "SNRNP200": {
+        "Degree": 7,
+        "Betwenness": 0.036861167002012064,
+        "Eigen": 0.036861167002012064,
+        "Closeness": 0.21515151515151515,
+        "Ratio Betwenness/Degree": 0.005265881000287438
+    },
+    "BBS7": {
+        "Degree": 11,
+        "Betwenness": 0.13215291750503014,
+        "Eigen": 0.13215291750503014,
+        "Closeness": 0.18882978723404256,
+        "Ratio Betwenness/Degree": 0.012013901591366376
+    },
+    "BBS4": {
+        "Degree": 8,
+        "Betwenness": 0.17602951039570755,
+        "Eigen": 0.17602951039570755,
+        "Closeness": 0.20520231213872833,
+        "Ratio Betwenness/Degree": 0.022003688799463444
+    },
+    "BBS2": {
+        "Degree": 7,
+        "Betwenness": 0.0003018108651911469,
+        "Eigen": 0.0003018108651911469,
+        "Closeness": 0.1761786600496278,
+        "Ratio Betwenness/Degree": 4.3115837884449556e-05
+    },
+    "PAX2": {
+        "Degree": 4,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.1748768472906404,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "BBS1": {
+        "Degree": 8,
+        "Betwenness": 0.028470824949698187,
+        "Eigen": 0.028470824949698187,
+        "Closeness": 0.17661691542288557,
+        "Ratio Betwenness/Degree": 0.0035588531187122734
+    },
+    "CEP164": {
+        "Degree": 4,
+        "Betwenness": 0.1071026156941649,
+        "Eigen": 0.1071026156941649,
+        "Closeness": 0.21515151515151515,
+        "Ratio Betwenness/Degree": 0.026775653923541226
+    },
+    "BBS10": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.1591928251121076,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "ALMS1": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.1591928251121076,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "BBS5": {
+        "Degree": 6,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.17574257425742573,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "BBS9": {
+        "Degree": 6,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.17574257425742573,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "TTC8": {
+        "Degree": 6,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.17574257425742573,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "RPGRIP1L": {
+        "Degree": 6,
+        "Betwenness": 0.11006036217303818,
+        "Eigen": 0.11006036217303818,
+        "Closeness": 0.2268370607028754,
+        "Ratio Betwenness/Degree": 0.018343393695506364
+    },
+    "LCA5": {
+        "Degree": 4,
+        "Betwenness": 0.08289738430583501,
+        "Eigen": 0.08289738430583501,
+        "Closeness": 0.20821114369501467,
+        "Ratio Betwenness/Degree": 0.020724346076458754
+    },
+    "NPHP4": {
+        "Degree": 4,
+        "Betwenness": 0.07460764587525147,
+        "Eigen": 0.07460764587525147,
+        "Closeness": 0.21450151057401812,
+        "Ratio Betwenness/Degree": 0.018651911468812867
+    },
+    "IDH3B": {
+        "Degree": 3,
+        "Betwenness": 0.0012743125419181756,
+        "Eigen": 0.0012743125419181756,
+        "Closeness": 0.20821114369501467,
+        "Ratio Betwenness/Degree": 0.00042477084730605853
+    },
+    "RPGR": {
+        "Degree": 5,
+        "Betwenness": 0.2561435278336686,
+        "Eigen": 0.2561435278336686,
+        "Closeness": 0.22756410256410256,
+        "Ratio Betwenness/Degree": 0.05122870556673372
+    },
+    "SPATA7": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.185378590078329,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "IFT140": {
+        "Degree": 3,
+        "Betwenness": 0.004862508383635141,
+        "Eigen": 0.004862508383635141,
+        "Closeness": 0.17149758454106281,
+        "Ratio Betwenness/Degree": 0.0016208361278783803
+    },
+    "NEK2": {
+        "Degree": 2,
+        "Betwenness": 0.009691482226693497,
+        "Eigen": 0.009691482226693497,
+        "Closeness": 0.17661691542288557,
+        "Ratio Betwenness/Degree": 0.004845741113346748
+    },
+    "WDR19": {
+        "Degree": 2,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.16666666666666666,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "TTC21B": {
+        "Degree": 3,
+        "Betwenness": 0.04718309859154931,
+        "Eigen": 0.04718309859154931,
+        "Closeness": 0.19722222222222222,
+        "Ratio Betwenness/Degree": 0.015727699530516438
+    },
+    "DHX38": {
+        "Degree": 4,
+        "Betwenness": 0.05593561368209255,
+        "Eigen": 0.05593561368209255,
+        "Closeness": 0.19346049046321526,
+        "Ratio Betwenness/Degree": 0.013983903420523138
+    },
+    "CWC27": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.16247139588100687,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "CDKL5": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.16247139588100687,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "GIGYF2": {
+        "Degree": 4,
+        "Betwenness": 0.25752515090543254,
+        "Eigen": 0.25752515090543254,
+        "Closeness": 0.23666666666666666,
+        "Ratio Betwenness/Degree": 0.06438128772635814
+    },
+    "EMC1": {
+        "Degree": 3,
+        "Betwenness": 0.13279678068410464,
+        "Eigen": 0.13279678068410464,
+        "Closeness": 0.19667590027700832,
+        "Ratio Betwenness/Degree": 0.044265593561368215
+    },
+    "CTNNA1": {
+        "Degree": 2,
+        "Betwenness": 0.028169014084507043,
+        "Eigen": 0.028169014084507043,
+        "Closeness": 0.1080669710806697,
+        "Ratio Betwenness/Degree": 0.014084507042253521
+    },
+    "MYO7A": {
+        "Degree": 2,
+        "Betwenness": 0.055533199195171024,
+        "Eigen": 0.055533199195171024,
+        "Closeness": 0.12054329371816638,
+        "Ratio Betwenness/Degree": 0.027766599597585512
+    },
+    "CDH3": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.09766162310866575,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "RP2": {
+        "Degree": 3,
+        "Betwenness": 0.08289738430583501,
+        "Eigen": 0.08289738430583501,
+        "Closeness": 0.1457905544147844,
+        "Ratio Betwenness/Degree": 0.027632461435278338
+    },
+    "ARL3": {
+        "Degree": 2,
+        "Betwenness": 0.028169014084507043,
+        "Eigen": 0.028169014084507043,
+        "Closeness": 0.12792792792792793,
+        "Ratio Betwenness/Degree": 0.014084507042253521
+    },
+    "HK1": {
+        "Degree": 2,
+        "Betwenness": 0.10784708249496981,
+        "Eigen": 0.10784708249496981,
+        "Closeness": 0.16784869976359337,
+        "Ratio Betwenness/Degree": 0.053923541247484906
+    },
+    "FTH1": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.12746858168761221,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "PRSS23": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.17359413202933985,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "LRP2": {
+        "Degree": 3,
+        "Betwenness": 0.2056338028169014,
+        "Eigen": 0.2056338028169014,
+        "Closeness": 0.20943952802359883,
+        "Ratio Betwenness/Degree": 0.06854460093896714
+    },
+    "TIMP3": {
+        "Degree": 3,
+        "Betwenness": 0.158953722334004,
+        "Eigen": 0.158953722334004,
+        "Closeness": 0.17884130982367757,
+        "Ratio Betwenness/Degree": 0.05298457411133467
+    },
+    "EFEMP1": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.2,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "CNNM4": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.16864608076009502,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "IQCB1": {
+        "Degree": 4,
+        "Betwenness": 0.051254191817572105,
+        "Eigen": 0.051254191817572105,
+        "Closeness": 0.2022792022792023,
+        "Ratio Betwenness/Degree": 0.012813547954393026
+    },
+    "LRP5": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.15203426124197003,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "POC1B": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.14822546972860126,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "FAM161A": {
+        "Degree": 2,
+        "Betwenness": 0.028169014084507043,
+        "Eigen": 0.028169014084507043,
+        "Closeness": 0.17359413202933985,
+        "Ratio Betwenness/Degree": 0.014084507042253521
+    },
+    "USH1C": {
+        "Degree": 2,
+        "Betwenness": 0.08209255533199195,
+        "Eigen": 0.08209255533199195,
+        "Closeness": 0.13575525812619502,
+        "Ratio Betwenness/Degree": 0.04104627766599597
+    },
+    "IFT172": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.17274939172749393,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "INPP5E": {
+        "Degree": 2,
+        "Betwenness": 0.2504426559356136,
+        "Eigen": 0.2504426559356136,
+        "Closeness": 0.23202614379084968,
+        "Ratio Betwenness/Degree": 0.1252213279678068
+    },
+    "ACO2": {
+        "Degree": 2,
+        "Betwenness": 0.028169014084507043,
+        "Eigen": 0.028169014084507043,
+        "Closeness": 0.1632183908045977,
+        "Ratio Betwenness/Degree": 0.014084507042253521
+    },
+    "ITGA4": {
+        "Degree": 3,
+        "Betwenness": 0.055533199195171024,
+        "Eigen": 0.055533199195171024,
+        "Closeness": 0.19346049046321526,
+        "Ratio Betwenness/Degree": 0.01851106639839034
+    },
+    "OAT": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.1405940594059406,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "RPGRIP1": {
+        "Degree": 3,
+        "Betwenness": 0.02930918846411803,
+        "Eigen": 0.02930918846411803,
+        "Closeness": 0.221875,
+        "Ratio Betwenness/Degree": 0.009769729488039343
+    },
+    "PHF3": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.17661691542288557,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "CEP290": {
+        "Degree": 3,
+        "Betwenness": 0.0145271629778672,
+        "Eigen": 0.0145271629778672,
+        "Closeness": 0.20579710144927535,
+        "Ratio Betwenness/Degree": 0.004842387659289067
+    },
+    "AHI1": {
+        "Degree": 3,
+        "Betwenness": 0.0145271629778672,
+        "Eigen": 0.0145271629778672,
+        "Closeness": 0.20579710144927535,
+        "Ratio Betwenness/Degree": 0.004842387659289067
+    },
+    "CEP78": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.17401960784313725,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "RP9": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.1918918918918919,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "ARL6": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.1504237288135593,
+        "Ratio Betwenness/Degree": 0.0
+    },
+    "CC2D2A": {
+        "Degree": 3,
+        "Betwenness": 0.0001341381623071764,
+        "Eigen": 0.0001341381623071764,
+        "Closeness": 0.19398907103825136,
+        "Ratio Betwenness/Degree": 4.47127207690588e-05
+    },
+    "CDH23": {
+        "Degree": 2,
+        "Betwenness": 0.10784708249496981,
+        "Eigen": 0.10784708249496981,
+        "Closeness": 0.15468409586056645,
+        "Ratio Betwenness/Degree": 0.053923541247484906
+    },
+    "ARL2BP": {
+        "Degree": 1,
+        "Betwenness": 0.0,
+        "Eigen": 0.0,
+        "Closeness": 0.1136,
+        "Ratio Betwenness/Degree": 0.0
+    }
+}
